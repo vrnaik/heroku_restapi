@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_for_salesforce",
+  "version": "1.0.0",
+  "main": "server-express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "st": "nodemon -w server-express.js"
+  },
+  "author": "Vikas Naik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "description": ""
+}
